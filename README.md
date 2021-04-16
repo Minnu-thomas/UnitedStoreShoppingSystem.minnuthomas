@@ -13,3 +13,7 @@ This is a project with the objective to develop a basic website where a consumer
 ![unitedstoresecond](https://user-images.githubusercontent.com/69053809/114969948-6c31c600-9e47-11eb-8730-5f7a746f8d5d.gif)
 
 
+![Untitled_ Apr 16, 2021 9_17 AM](https://user-images.githubusercontent.com/69053809/115030324-f8b6a580-9e94-11eb-8738-beefc51b27bb.gif)
+
+
+
