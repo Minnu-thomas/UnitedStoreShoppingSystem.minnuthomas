@@ -10,3 +10,6 @@ This is a project with the objective to develop a basic website where a consumer
 
 ![unitedstoreFirst](https://user-images.githubusercontent.com/69053809/114969553-98991280-9e46-11eb-992c-eaabe0ba6a90.gif)
 
+![unitedstoresecond](https://user-images.githubusercontent.com/69053809/114969948-6c31c600-9e47-11eb-8730-5f7a746f8d5d.gif)
+
+
