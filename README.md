@@ -5,3 +5,8 @@ This project provides an easy access to Administrators and Managers to view orde
 In order to develop an e-commerce website, a number of Technologies must be studied and understood.
 These include multi-tiered architecture, server and client side scripting techniques, implementation technologies such as Html, CSS, PHP, JavaScript, Jquery and relational databases.
 This is a project with the objective to develop a basic website where a consumer is provided with a shopping cart application and also to know about the technologies used to develop such an application.
+
+
+
+![unitedstoreFirst](https://user-images.githubusercontent.com/69053809/114969553-98991280-9e46-11eb-992c-eaabe0ba6a90.gif)
+
